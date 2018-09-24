@@ -1,4 +1,4 @@
-﻿已經開始建置於 2018/9/24 下午 05:25:20。
+﻿已經開始建置於 2018/9/25 上午 12:11:27。
      1>節點 2 (Build 目標) 上的專案 "C:\c_code\Ch1_Lab1\Lab1\Lab1\Lab1.vcxproj"。
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
      1>ClCompile:
@@ -11,4 +11,4 @@
 
 建置成功。
 
-經過時間 00:00:03.82
+經過時間 00:00:02.01
